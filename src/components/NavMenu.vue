@@ -31,10 +31,10 @@ nav {
     .menu {
       @apply flex gap-2;
       &-item {
-        @apply rounded-md px-4 py-2 hover:bg-transparent hover:text-black;
+        @apply rounded-md px-4 py-2 hover:bg-white hover:text-black;
       }
       &-login {
-        @apply rounded-md px-4 py-2 bg-slate-500 hover:bg-transparent hover:text-black;
+        @apply rounded-md px-4 py-2 bg-slate-500 hover:bg-pink-200 hover:text-black;
 
       }
     }
